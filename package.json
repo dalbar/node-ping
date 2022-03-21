@@ -1,0 +1,23 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "some quick test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalbar/node-ping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalbar/node-ping/issues"
+  },
+  "homepage": "https://github.com/dalbar/node-ping#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
