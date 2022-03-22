@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "some quick test",
   "main": "index.js",
-  "scripts": {
-    "start": "node server.mjs"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dalbar/node-ping.git"
